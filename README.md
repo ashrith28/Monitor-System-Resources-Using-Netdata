@@ -21,9 +21,11 @@ Install and run Netdata to visualize system and application performance metrics 
 
 # screenshots of the running dashboard
 
-!<Screenshot 2025-10-02 194928-1.png>
+<img width="1920" height="1032" alt="Screenshot 2025-10-02 195400" src="https://github.com/user-attachments/assets/6dbb2372-9f04-4aa4-abc9-8c1d4812a8dc" />
 
-!<Screenshot 2025-10-02 195400.png>
+<img width="1920" height="1032" alt="Screenshot 2025-10-02 194928" src="https://github.com/user-attachments/assets/4db6b48d-7aea-455d-b62d-a90c87e0d229" />
+
+
 
 5. To stop Netdata:
 ```
